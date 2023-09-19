@@ -1,0 +1,3 @@
+Update wordt één keer per frame aangeroepen
+
+Je kunt ook achteruit, omhoog, omlaag, naar links en naar rechts draaien
