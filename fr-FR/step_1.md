@@ -4,7 +4,7 @@ Dans la fenêtre Inspector pour le GameObject, clique sur « Add Component »
 
 Double-clique sur ton nouveau script pour l'ouvrir dans l'éditeur de code.
 
-Crée une variable pour contrôler la « vitesserotation » et le code pour faire tourner ton GameObject :
+Crée une variable pour contrôler la « vitesseRotation » et le code pour faire tourner ton GameObject :
 
 --- code ---
 ---
